@@ -1,6 +1,6 @@
 # codeacademyjava1justingame
 Justin bieber game you make at code academy with java. 
-// Check if the user is ready to play!
+
 confirm("I am ready to play!")
 var age = prompt ("What's your age");
 if ( age < 13){
